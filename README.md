@@ -33,9 +33,11 @@ Além da programação, gosto de explorar hardware, manutenção de computadores
 * SQL
 * Git
 * GitHub
-
 ## 📈 Sempre evoluindo
 
 Acredito que a melhor forma de aprender é praticando. Por isso, este GitHub será o lugar onde registrarei minha evolução, compartilhando projetos, exercícios e desafios desenvolvidos ao longo da minha jornada como programador.
 
 ⭐ "Todo especialista já foi um iniciante que decidiu não desistir."
+
+
+[commit]
