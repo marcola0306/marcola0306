@@ -39,8 +39,11 @@ Acredito que a melhor forma de aprender é praticando. Por isso, este GitHub ser
 
 ⭐ "Todo especialista já foi um iniciante que decidiu não desistir."
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/trovanini_/)
+
 📫 Contato
-📷 Instagram:https://www.instagram.com/trovanini_?igsh=MXNnbXI1MnJuOGtjNw==
+
 📧 E-mail: marciotrovaninifilho@gmail.com
 
 
